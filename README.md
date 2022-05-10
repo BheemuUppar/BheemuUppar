@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BheemuUppar
+- 👋 Hi, I’m @BheemuUppar, Beginner to coding world!!
 - 👀 I’m interested in solving problems.
 - 🌱 I’m currently learning Angular.
 - 📫 you can reach me out at https://www.instagram.com/bheemu_rocky/?hl=en
