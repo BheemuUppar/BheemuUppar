@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BheemuUppar, Beginner to coding world!!
-- 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning Angular.
+- 👀 interested in solving problems.
+- 🌱future Java Developer!
 - 📫 you can reach me out at https://www.instagram.com/bheemu_rocky/?hl=en
 - LinkedIn -->  www.linkedin.com/in/bheemarayaa
 
