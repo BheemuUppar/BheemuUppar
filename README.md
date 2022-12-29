@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BheemuUppar, Beginner to coding world!!
+- 👋 Hi, I’m @BheemuUppar, intermidiate!!
 - 👀 interested in solving problems.
 - 🌱future Java Developer!
 - 📫 you can reach me out at https://www.instagram.com/bheemu_rocky/?hl=en
